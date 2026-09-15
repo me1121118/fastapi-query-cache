@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+[project]
+name = "fastapi-query-cache"
+version = "0.1.0"
+description = "Deterministic query parameter caching decorator for FastAPI."
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "me1121118" }]
+dependencies = ["fastapi>=0.100.0"]
