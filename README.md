@@ -5,7 +5,7 @@
 > Deterministic query parameter caching decorator for FastAPI.
 
 ### ☕ Support My Studies
-- ☕ **Buy Me a Coffee:** [buymeacoffee.com/yourname](https://www.buymeacoffee.com)
+- ☕ **Buy Me a Coffee: [https://buymeacoffee.com/kcidi4148](https://buymeacoffee.com/kcidi4148):** [buymeacoffee.com/yourname](https://www.buymeacoffee.com)
 - ⭐ **Star this repo!**
 
 ```python
